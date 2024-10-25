@@ -21,34 +21,50 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Service Level Agreements (SLA)
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/a4853ae5-a022-4ff7-ba87-c628fc595a89)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the post installation steps of osTicket. Navigate to the Admin Panel and click on Roles. This will show you the differnt roles and access for the helpdesk.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/user-attachments/assets/1afd7cc6-d06a-4f17-b240-b65efabcfd76)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to the Departments section in the Admin Panel. From there you will see all the current departments. Click on add a new department to add in the departments for the different teams.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/c8c6af47-71a7-411c-848f-5ec16b0a0873)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to the Manage tab in the Admin Panel and click on SLA. The SLA (Service Level Agreements) are the policies for ticket type, response time, severity level. You will be able to configure these for your help desk agents. From here you will be able to add in the SLA plan. 
 </p>
 <br />
+
+  <p> 
+
+  ![image](https://github.com/user-attachments/assets/66784f15-8cc8-4820-ab78-80ebb054659e)
+
+  </p>
+  <p>
+  Creating Help Topics
+  Click on Manage Tab and you will be redirected to Help Topics. From there click on Add New Help Topic. The example provided shows where you can add in the different topics/categories that the help desk categorizes for anyone putting in a ticket. For each one you will click add topic and it will be added for users to create categorized tickets in.
